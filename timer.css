@@ -1,0 +1,35 @@
+body {
+    font-family: monospace;
+    text-align: center;
+    margin: 50px;
+    background-color: black;
+  }
+
+  #timer {
+    font-size: 2em;
+    color: white;
+    font-size: 4rem;
+  }
+
+  #startBtn {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+  }
+  .container{
+    background-color: purple;
+    color: white;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 450px;
+    border-radius: 10px;
+  }
